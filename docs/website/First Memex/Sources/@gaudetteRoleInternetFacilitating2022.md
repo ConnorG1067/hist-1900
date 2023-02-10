@@ -9,6 +9,9 @@ alias: ["The Role of the Internet in Facilitating Violent Extremism"]
 > - **Link:** [Gaudette et al. - 2022 - The Role of the Internet in Facilitating Violent E.pdf](file://C:\Users\conco\Zotero\storage\DXDT9SET\Gaudette%20et%20al.%20-%202022%20-%20The%20Role%20of%20the%20Internet%20in%20Facilitating%20Violent%20E.pdf)
 > - **Abstract:** While a growing body of evidence suggests that the Internet is a key facil­ itator of violent extremism, research in this area has rarely incorporated former extremists’ experiences with the Internet when they were involved in violent extremism. To address this gap, in-depth interviews were con­ ducted with ten Canadian former right-wing extremists who were involved in violent racist skinhead groups, with interview questions provided by thirty Canadian law enforcement officials and ten community activists. Participants were asked about their use of the Internet and the connection between their on- and offline worlds during their involvement in the violent right-wing extremist movement. Overall, our study findings highlight the interplay between the Internet and violent extremism as well as the interactions between the on- and offline worlds of violent extremists. We conclude with a discussion of study limitations and avenues for future research.
 
+#### Key Take Aways
+Ten ex #alt-right extremeists were ask to fill out surveys and anwser some basic questions.  The study specifically was interested in the correlation between #social-media & #extremeism. That is, how extremeism thrives utilizing social media. In short, the study found that the ways of communication to the extremist community did in fact play a role in the integration into the community. 
+
 ## Annotations
 %% begin annotations %%
 ### Imported on 2023-02-09 1:02 pm
@@ -56,3 +59,6 @@ alias: ["The Role of the Internet in Facilitating Violent Extremism"]
 %% end annotations %%
 
 %% Import Date: 2023-02-09T13:03:47.388-05:00 %%
+
+#### Bibliographic Info
+Gaudette, Tiana, Ryan Scrivens, and Vivek Venkatesh. “The Role of the Internet in Facilitating Violent Extremism: Insights from Former Right-Wing Extremists.” _Terrorism and Political Violence_ 34, no. 7 (October 3, 2022): 1339–56. [https://doi.org/10.1080/09546553.2020.1784147](https://doi.org/10.1080/09546553.2020.1784147).

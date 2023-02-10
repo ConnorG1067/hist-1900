@@ -1,4 +1,5 @@
 Source: [[@southwellMisinformationMisunderstoodChallenge2019]]
+#misinformation #disinformation #social-media #technology 
 
 > [!quote|#5fb236] Highlight
 > For an algorithm to identify, flag, and correct a piece of misinformation still requires a series of human-initiated tasks. Who can best identify and choose the types of misinformation to be corrected and the appropriate response?

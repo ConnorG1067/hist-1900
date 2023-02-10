@@ -8,6 +8,9 @@ alias: ["The Garden and the Stream: A Technopastoral"]
 > - **Cite Key:** [[@caulfieldGardenStreamTechnopastoral2015]]
 > - **Link:** [hapgood-us-2015-10-17-the-garden-and-the-stream-a-technopastoral-.pdf](file://C:\Users\conco\Zotero\storage\YF66NDCA\hapgood-us-2015-10-17-the-garden-and-the-stream-a-technopastoral-.pdf)
 
+#### Key Take Aways
+Mike Caulfield, introduces the reader to his typical way of spreading information. That is, how he communicates his point to reach an audiance. He breifly discusses the Streams and Gardens within this article. The Garden is a place where people can build on each others ideas, like the federated wiki, where as the stream is for conversation and retoric for the better or worse 
+
 ## Annotations
 %% begin annotations %%
 ### Imported on 2023-02-09 11:28 am
@@ -139,3 +142,6 @@ alias: ["The Garden and the Stream: A Technopastoral"]
 %% end annotations %%
 
 %% Import Date: 2023-02-09T11:28:39.122-05:00 %%
+
+#### Bibliographic Info
+Caulfield, Mike. “The Garden and the Stream: A Technopastoral,” 2015.

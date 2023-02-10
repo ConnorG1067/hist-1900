@@ -1,6 +1,7 @@
+#alt-right #extremeism #social-media #technology #misinformation #disinformation #anonymity 
 Source [[@gaudetteRoleInternetFacilitating2022]]
 
 Many of the participants in the provided source stated that social media was a primary factor in their progression into this #alt-right community. It was due to the unlimited access to the content  that they learned to enjoy. [[Social Media and its ability to segregate]] breifly touches on the rabbit hole that social media pushes individuals into.  In some cases this rabbit hole is harmless, however, for the participants of this survey it was not harmless. The pariticpants claim they felt like they needed a group or rather a community. This community was not accessible in person and thus they resorted to online forms. The paritipants claim they were targeted due to their vulnrabilities. So now, we can conclude only by cases, that social media is especially problematic for those who lack a sense of community in their actual lives (offline). Social media is the perfect place to manipulate those who lack purpose. 
 
-### Key take aways
+### Key Take Aways:
 Social media is problematic for those who lack a sense of community. These platforms recruit people in a vulnrable position in order to push their own narrative onto others. The media makes money from the users using the app or service, and thus tailoring the content to their liking maximizes time spent on the app. This closes off other perspectives and limits those to a very narrow way of thinking. This relates back to the [[@caulfieldGardenStreamTechnopastoral2015]] in which Caulfield makes references to a stream and a garden.

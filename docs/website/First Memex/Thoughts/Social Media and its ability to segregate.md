@@ -1,3 +1,4 @@
+#segregation #racism #biases #Mediums-and-messages 
 > [!quote|#a28ae5] Highlight
 > This brings us to learning design. Dave Cormier had an interesting post a month or so ago about how “every we makes a them”. You get a large class together and it fragments, partially to protect itself from scale. Cliques develop. The cool kids table emerges. Others complain they are not being attended to, the cool kids say well sorry but we know each other and we want to sit next to one another.
 >

@@ -7,6 +7,9 @@ alias: ["Misinformation as a Misunderstood Challenge to Public Health"]
 > - **Cite Key:** [[@southwellMisinformationMisunderstoodChallenge2019]]
 > - **Link:** [Southwell et al. - 2019 - Misinformation as a Misunderstood Challenge to Pub.pdf](file://C:\Users\conco\Zotero\storage\MIST2VSE\Southwell%20et%20al.%20-%202019%20-%20Misinformation%20as%20a%20Misunderstood%20Challenge%20to%20Pub.pdf)
 
+#### Key Take Aways
+Southwell write a convincing article regarding misinformation as a threat to public health. However, one part really stuck with me. Southwell raises the question about algorithms detecting misinformation online and how this is potentially problematic when humans are involved. Humans are bias and thus our creations are bias. 
+
 ## Annotations
 %% begin annotations %%
 ### Imported on 2023-02-09 7:28 pm
@@ -28,7 +31,7 @@ alias: ["Misinformation as a Misunderstood Challenge to Public Health"]
 #### Agree
 
 > [!quote|#5fb236] Highlight
-> n fact, one might worry that problematic claims in advertising and elsewhere funded by commercial actors enjoy exposure that vastly outweighs what relatively limited public health media campaigns intended to counter such
+> In fact, one might worry that problematic claims in advertising and elsewhere funded by commercial actors enjoy exposure that vastly outweighs what relatively limited public health media campaigns intended to counter such
 >
 >> This is a great point, we're worried misinformation on an individual basis, but I haven't until now, seen the potential threat of misinformation in advertising.
 >
@@ -87,3 +90,6 @@ alias: ["Misinformation as a Misunderstood Challenge to Public Health"]
 %% end annotations %%
 
 %% Import Date: 2023-02-09T19:28:36.419-05:00 %%
+
+### Bibliographic Info
+Southwell, Brian G., Jeff Niederdeppe, Joseph N. Cappella, Anna Gaysynsky, Dannielle E. Kelley, April Oh, Emily B. Peterson, and Wen-Ying Sylvia Chou. “Misinformation as a Misunderstood Challenge to Public Health.” _American Journal of Preventive Medicine_ 57, no. 2 (August 2019): 282–85. [https://doi.org/10.1016/j.amepre.2019.03.009](https://doi.org/10.1016/j.amepre.2019.03.009).

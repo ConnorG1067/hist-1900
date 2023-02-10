@@ -7,6 +7,9 @@ alias: ["The Relationship Between Depression and Internet Addiction"]
 > - **Cite Key:** [[@youngRelationshipDepressionInternet1998]]
 > - **Link:** [Young and Rogers - 1998 - The Relationship Between Depression and Internet A.pdf](file://C:\Users\conco\Zotero\storage\CCGUGZX7\Young%20and%20Rogers%20-%201998%20-%20The%20Relationship%20Between%20Depression%20and%20Internet%20A.pdf)
 
+#### Key Take Aways:
+Young, successfully finds a correlation between internet usage and depression. A sample of clinically depressed individuals were selected in order to observe their internet usage . What they do on the internet, average time per week spent on non-educational/work related usage, their occupation, education etc, Young also explores as to why the internet is a good coping mechanism for these individuals.. 
+
 ## Annotations
 %% begin annotations %%
 ### Imported on 2023-02-09 6:46 pm
@@ -21,7 +24,7 @@ alias: ["The Relationship Between Depression and Internet Addiction"]
 > [!quote|#5fb236] Highlight
 > This suggests that clinical depression is significantly associated with increased levels of personal Internet use.
 >
->> Depression stems from
+>
 >
 > [Page 3](zotero://open-pdf/library/items/CCGUGZX7?page=3) [[2023-02-09#6:26 pm]]
 
@@ -69,3 +72,6 @@ alias: ["The Relationship Between Depression and Internet Addiction"]
 %% end annotations %%
 
 %% Import Date: 2023-02-09T18:46:49.403-05:00 %%
+
+#### Bibliographic Info
+Young, Kimberly S., and Robert C. Rogers. “The Relationship Between Depression and Internet Addiction.” _CyberPsychology & Behavior_ 1, no. 1 (January 1998): 25–28. [https://doi.org/10.1089/cpb.1998.1.25](https://doi.org/10.1089/cpb.1998.1.25).

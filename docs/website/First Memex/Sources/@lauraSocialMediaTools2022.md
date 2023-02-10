@@ -8,6 +8,9 @@ alias: ["Social media tools were key to 'Freedom Convoy' protest, expert tells i
 > - **Cite Key:** [[@lauraSocialMediaTools2022]]
 > - **Link:** [www-cbc-ca-news-politics-social-mediea-convoy-protests-emergencies-act-inquiry-1-6668543.pdf](file://C:\Users\conco\Zotero\storage\NESBYVWH\www-cbc-ca-news-politics-social-mediea-convoy-protests-emergencies-act-inquiry-1-6668543.pdf)
 
+#### Key Take Aways
+This particular article from, Laura, Osman investigates the correlation between the Convoy protest and the usage of the internet.  How the Convoy utilized social media to alter reality online and generate funds. How #social-media  was used to alter the perception of those watching the situation unfold online, which lend to the manipulation of those who funded the operation. This raises question about how dangerous social media really is when the #Mediums-and-messages  are controlled by those who have an incentive to #disinform others.
+
 ## Annotations
 %% begin annotations %%
 ### Imported on 2023-02-09 12:17 pm
@@ -86,3 +89,6 @@ All things to consider when identifying misinformation
 %% end annotations %%
 
 %% Import Date: 2023-02-09T12:18:17.727-05:00 %%
+
+#### Bibliographic Info
+Laura, Osman. “Social Media Tools Were Key to ‘Freedom Convoy’ Protest, Expert Tells Inquiry,” November 29, 2022.
