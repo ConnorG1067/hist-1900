@@ -73,7 +73,8 @@ Southwell write a convincing article regarding misinformation as a threat to pub
 > [!quote|#a28ae5] Highlight
 > Some misinformation, in fact, is sowed to instill political and social mischief at a minimum and political and institutional mistrust in its worst manifestations.
 >
->> LINK THE RACIST GUY ONE!
+>> Related to [[@gaudetteRoleInternetFacilitating2022]]
+>> 
 >
 > [Page 3](zotero://open-pdf/library/items/MIST2VSE?page=3) [[2023-02-09#7:22 pm]]
 

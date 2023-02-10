@@ -20,7 +20,7 @@ This particular article from, Laura, Osman investigates the correlation between 
 > [!quote|#a28ae5] Highlight
 > it considered the role played by misinformation in the lead-up to the invocation of the Emergencies Act.
 >
->> Link this to a good article on social media misinformation!
+>> Related to: [[@southwellMisinformationMisunderstoodChallenge2019]]
 >
 > [Page 1](zotero://open-pdf/library/items/NESBYVWH?page=1) [[2023-02-09#11:55 am]]
 
