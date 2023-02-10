@@ -2,7 +2,7 @@
 cssclass: zotero-note
 alias: ["Misinformation as a Misunderstood Challenge to Public Health"]
 ---
-
+#misinformation #public-health #social-media #technology #internet 
 > [!info]
 > - **Cite Key:** [[@southwellMisinformationMisunderstoodChallenge2019]]
 > - **Link:** [Southwell et al. - 2019 - Misinformation as a Misunderstood Challenge to Pub.pdf](file://C:\Users\conco\Zotero\storage\MIST2VSE\Southwell%20et%20al.%20-%202019%20-%20Misinformation%20as%20a%20Misunderstood%20Challenge%20to%20Pub.pdf)
