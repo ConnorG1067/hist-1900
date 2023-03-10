@@ -14,5 +14,5 @@ The telegraph's capabilities to share information in the sense of a military ope
 
 ### Related Links
 * [[European Expansion And The Usage of the Telegraph]]
-* [[Mediums of Encryption]]
-* [[The Power New Technology Poses]]
+* [[Mediums of Encryption & they're evolution]]
+* [[The Power New Technology Poses Upon Nations & Individuals]]

@@ -13,4 +13,4 @@ Now Will defines the stream nowadays, which most of us can relate to. However, b
 ### Related Links
 * [[@caulfieldGardenStreamTechnopastoral2015]]
 * [[Is the Stream or Garden More Benefitial to Facilitiate growth in knowledge]]
-* [[The Fax Superiority]]
+* [[The Fax Superiority In the United States]]
