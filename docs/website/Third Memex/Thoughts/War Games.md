@@ -10,8 +10,11 @@
 >
 > [Page 1](zotero://open-pdf/library/items/BM5A86LQ?page=1) [[2023-04-05#4:43 pm]]
 
-Whether it is a sterotype or not Hollywood depicts teenagers as computer "geniuses" in the movie War Games. Where did this assoication come from? Was it that teenagers would grow up with this existing technology and thus have a better grasp on its capabilities? Or was it simply to make the entire movie more absurd and thus more entertaining? 
+Whether it is a stereotype or not Hollywood depicts teenagers as computer "geniuses" in the movie War Games. Where did this association come from? Was it that teenagers would grow up with this existing technology and thus have a better grasp on its capabilities? Or was it simply to make the entire movie more absurd and thus more entertaining? 
 
+### Key Take Aways:
+* The first time teens were associated with technology
+* A depiction of technology being used malliciously in Holywood
 
 ### Related Links:
 * [[@driscollBirthModemWorld]]

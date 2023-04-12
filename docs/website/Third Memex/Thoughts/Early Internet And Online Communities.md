@@ -5,7 +5,12 @@
 >
 > [Page 1](zotero://open-pdf/library/items/BM5A86LQ?page=1) [[2023-04-05#4:10 pm]]
 
-The birth of the modem birthed online communities. Despite these communities being small at the time, they've become significantly larger and more substantial. This has allowed societies and cultures to progress and succeed. However, this has also allowed negative communities to grow and flurish. Consumers, academics and passionate people regarding any topic could connect with one another and share ideas in an instant. 
+The birth of the modem birthed online communities. Despite these communities being small at the time, they've become significantly larger and more substantial. This has allowed societies and cultures to progress and succeed. However, this has also allowed negative communities to grow and flourish. Consumers, academics and passionate people regarding any topic could connect with one another and share ideas in an instant. 
+
+### Key Take Aways:
+* A more accessible flow of information
+* Negative extremeist communities benefitting 
+* The modem opened the internet in terms of information
 
 ### Related Links
 * [[Political Censorship Online]]
