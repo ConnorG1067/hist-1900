@@ -11,3 +11,7 @@
 1. Utilize the tags - Tags are perfect if you're interested in a particular topic and want more information about said topic
 2. Search through my notes and easily find where these notes were extracted in the original text to get a deeper understanding. The notes are meant to help create thoughts, they're not summaries, if you want more information or context you must look through the original source.
 3. Each thought/source has various tags associated with this, this is best understood visually in [[Interlinkages]]. Here, in interlinkages, you can see all the connections of my ideas and sources in a nice visual format. These Interlinkages help you, the reader, understand the thought process as well as the connections between thoughts which stem from sources.
+
+Final Journey Links
+1. [[0_Final Journey_1]]
+2. [[0_Final Journey_2]]
