@@ -9,4 +9,5 @@ As previously mentioned in this memex, encryption has been around as long as the
 
 ### Related Links
 * [[Relating Modern Day Encryption To Encryption Since the Dawn of Time]]
+* [[Dangers of Algorithms and Information Exchange]]
 

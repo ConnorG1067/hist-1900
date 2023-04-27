@@ -15,3 +15,4 @@ As discussed in class, there are various ways to exchange information, these are
 * [[@paoloMythWorldWide]]
 * [[Early Internet And Online Communities]]
 * [[Political Censorship Online]]
+* [[Mediums of Encryption & they're evolution]]

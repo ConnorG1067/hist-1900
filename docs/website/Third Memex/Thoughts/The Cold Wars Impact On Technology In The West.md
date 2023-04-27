@@ -5,7 +5,7 @@
 >
 > [Page 1](zotero://open-pdf/library/items/MX3ABQ56?page=1) [[2023-04-10#10:25 am]]
 
-The United States and Russia's Cold War made the mid-1900's an amazing time for technology. The space race and the nuclear arms race made both countries untouchable to one another but also pushed military defence and offense to a place its never been. 
+The United States and Russia's Cold War made the mid-1900's an amazing time for technology. The space race and the nuclear arms race made both countries untouchable to one another but also pushed military defence and offense to a place its never been.  ^af8a20
 
 ### Key Take Aways:
 * Cold war advancing technology for the west
